@@ -1,0 +1,2 @@
+# DNSCONFIG
+Basic Dns Configuration
